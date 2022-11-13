@@ -30,5 +30,6 @@ public class App
             }
         }).start();
         System.out.println("hahaha");
+        System.out.println("master");
     }
 }
