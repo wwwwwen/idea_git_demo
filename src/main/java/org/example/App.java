@@ -29,5 +29,6 @@ public class App
                 }
             }
         }).start();
+        System.out.println("hahaha");
     }
 }
