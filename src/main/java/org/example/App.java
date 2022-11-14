@@ -34,5 +34,6 @@ public class App
         System.out.println("main change");
         System.out.println("master change");
         System.out.println("remote add hello");
+        System.out.println("main add hello");
     }
 }
