@@ -33,5 +33,6 @@ public class App
         System.out.println("hahaha");
         System.out.println("main change");
         System.out.println("master change");
+        System.out.println("remote add hello");
     }
 }
